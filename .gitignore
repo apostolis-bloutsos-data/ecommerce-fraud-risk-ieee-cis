@@ -1,0 +1,10 @@
+# Raw competition data
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
