@@ -1,0 +1,6 @@
+ProductCD,fraud_transactions,detected_fraud,missed_fraud,recall_pct
+R,197,167,30,84.7716
+C,1149,915,234,79.6345
+H,136,93,43,68.3824
+S,125,72,53,57.6000
+W,1167,467,700,40.0171

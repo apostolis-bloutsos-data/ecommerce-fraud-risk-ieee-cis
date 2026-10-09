@@ -1,0 +1,4 @@
+method,mean_predicted_pct,observed_fraud_rate_pct,difference_pp
+Raw LightGBM,2.5525,3.1574,-0.6049
+Platt scaling,3.4919,3.1574,0.3345
+Isotonic regression,3.5144,3.1574,0.3570

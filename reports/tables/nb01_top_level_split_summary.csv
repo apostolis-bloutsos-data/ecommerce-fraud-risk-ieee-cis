@@ -1,0 +1,4 @@
+period,transactions,row_pct,fraud_transactions,fraud_rate_pct,first_day,last_day
+Development,437511,74.0866,15336,3.5053,1,127
+Post-development,74487,12.6134,2553,3.4274,128,154
+Final holdout,78542,13.3000,2774,3.5319,155,182

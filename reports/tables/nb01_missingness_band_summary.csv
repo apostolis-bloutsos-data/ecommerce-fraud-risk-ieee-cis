@@ -1,0 +1,5 @@
+missingness_band,transactions,fraud_transactions,fraud_rate_pct
+0–25%,58854,5807,9.8668
+25–50%,335728,10209,3.0409
+50–75%,195951,4647,2.3715
+75–100%,7,0,0.0000

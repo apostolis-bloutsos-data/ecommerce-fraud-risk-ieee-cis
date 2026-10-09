@@ -1,0 +1,10 @@
+# Core project dependencies
+# Final notebooks validated in Google Colab with Python 3.13.16
+
+kaggle
+lightgbm
+matplotlib
+numpy
+pandas
+scikit-learn
+shap

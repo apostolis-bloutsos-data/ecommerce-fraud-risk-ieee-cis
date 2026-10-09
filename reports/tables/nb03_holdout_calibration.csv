@@ -1,0 +1,3 @@
+method,brier_score,log_loss,mean_predicted_probability,observed_fraud_rate
+Raw LightGBM,0.022477,0.091760,0.028299,0.035319
+Platt scaling,0.022623,0.091499,0.038554,0.035319

@@ -1,0 +1,4 @@
+method,brier_score,log_loss
+Raw LightGBM,0.019545,0.081213
+Platt scaling,0.019603,0.080748
+Isotonic regression,0.019795,0.083544

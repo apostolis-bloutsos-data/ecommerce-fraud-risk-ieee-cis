@@ -1,0 +1,5 @@
+period,transactions,fraud_transactions,fraud_rate_pct,first_day,last_day
+Development,437511,15336,3.5053,1,127
+Calibration fit,37495,1385,3.6938,128,141
+Decision selection,36992,1168,3.1574,142,154
+Final holdout,78542,2774,3.5319,155,182

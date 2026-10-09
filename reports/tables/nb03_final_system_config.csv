@@ -1,0 +1,8 @@
+component,value
+model,LightGBM
+num_leaves,63
+n_estimators,814
+learning_rate,0.03
+calibration,Platt scaling
+operating_policy,5% review capacity
+probability_threshold,0.12951133886123423

@@ -1,0 +1,5 @@
+threshold_pct,transaction_columns,identity_columns
+25,212,19
+50,174,12
+75,168,9
+90,2,9

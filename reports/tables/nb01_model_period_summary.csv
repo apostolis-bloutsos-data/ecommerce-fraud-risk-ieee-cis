@@ -1,0 +1,5 @@
+period,transactions,row_pct,fraud_transactions,fraud_rate_pct,first_day,last_day
+Model training,356216,60.3204,12039,3.3797,1,101
+Internal validation,81295,13.7662,3297,4.0556,102,127
+Post-development,74487,12.6134,2553,3.4274,128,154
+Final holdout,78542,13.3000,2774,3.5319,155,182

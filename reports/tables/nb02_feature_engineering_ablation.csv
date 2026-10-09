@@ -1,0 +1,7 @@
+model,n_features,best_iteration,roc_auc,average_precision,delta_roc_auc,delta_average_precision
+Baseline LightGBM,434,958,0.928825,0.646629,0.000000,0.000000
+All targeted features,444,620,0.926073,0.641112,-0.002752,-0.005517
+Time features only,436,796,0.927571,0.645803,-0.001254,-0.000826
+Amount features only,436,1019,0.927411,0.649293,-0.001415,0.002664
+Email features only,437,780,0.927893,0.643726,-0.000932,-0.002903
+Missingness indicators only,437,1087,0.929102,0.649716,0.000277,0.003087
